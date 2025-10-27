@@ -44,5 +44,5 @@ function getEmployees() {
   return employeesArr;
 }
 
-console.log(getEmployees());
-console.log(sortList());
+getEmployees();
+sortList();
