@@ -45,7 +45,4 @@ function getEmployees(list) {
 
 sortList(parentListElem);
 
-const employeesNewData = getEmployees(parentListElem);
-
-// eslint-disable-next-line no-console
-console.log(employeesNewData);
+getEmployees(parentListElem);
