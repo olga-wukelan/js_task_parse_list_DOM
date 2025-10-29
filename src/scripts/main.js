@@ -48,4 +48,4 @@ sortList(parentListElem);
 const employeesNewData = getEmployees(parentListElem);
 
 // eslint-disable-next-line no-console
-console.log(employeesNewData());
+console.log(employeesNewData);
