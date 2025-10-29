@@ -44,5 +44,4 @@ function getEmployees(list) {
 }
 
 sortList(parentListElem);
-
 getEmployees(parentListElem);
